@@ -4,7 +4,10 @@ I wanted to answer one practical question:
 
 **On a single 4-GPU PCIe machine, does prefill/decode (PD) disaggregation beat a colocated engine?**
 
-This is *not* a “PD is good/bad in general” post — just a grounded single-node result.
+This is *not* a “PD is good/bad in general” post, just a grounded single-node result.
+
+code: [github.com/JayZenith/pd-disagg](https://github.com/JayZenith/pd-disagg)
+
 
 ---
 
